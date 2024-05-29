@@ -1,0 +1,10 @@
+Gender : Male / Female -> nominal
+Height : Number (cm) -> numeric
+Weight : Number (Kg) -> numeric
+Index : -> ordinal
+0 - Extremely Weak 
+1 - Weak
+2 - Normal
+3 - Overweight
+4 - Obesity
+5 - Extreme Obesity

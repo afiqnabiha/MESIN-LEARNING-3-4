@@ -1,0 +1,8 @@
+                Edition Statement                 Place of Publication
+4    A new edition, revised, etc.                               London
+5   Fourth edition, revised, etc.                               London
+6                             NaN                               London
+7                             NaN  pp. 40. G. Bryan & Co: Oxford, 1898
+8                             NaN                              London]
+9                             NaN                               London
+10                            NaN                             Coventry
